@@ -1,0 +1,445 @@
+#About{
+	font-family: verdana,aral,sans-serif;
+background-image: url(image/img.jpg);
+background-repeat: no-repeat;
+background-size: 1090px 2000px ;
+color: white;
+}
+
+.je:hover .jo{
+	background-color:  #FFF5EF;
+	color: black;
+}
+#min{
+	padding-top: 10%;
+position: relative;
+right: 100px;
+}
+
+#projet{
+		font-family: verdana,aral,sans-serif;
+background-image: url(image/verte.jpeg);
+background-repeat: no-repeat;
+background-size: 1090px 1295px ;
+color: white;
+}
+#haut{
+	font-size: 20px;
+	color: black;
+}
+.linke{
+	margin: 10%;
+}
+
+}
+#omar{
+
+	margin-left: 30%;
+	margin-bottom: 15%;
+}
+
+
+.lil{
+   margin-top: 15%;
+	margin-left: 10%;
+	max-width: 1200px; 
+	height: 100%;/*height: 3000px;*/
+	background-color:#FFF5EF ;
+}
+#f{
+	background-color: #AACE3A;
+	margin-bottom: 20%;
+}
+#sar{
+	margin-bottom: 10%;
+}
+
+#rober{
+	color: white;
+	font-size: 20px;
+	margin-top: 5%;
+	background-color: #004C8C;
+	position: fixed;
+	bottom: 0px;
+    left: 0;
+	width: 100%;
+	height: 90px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#ok{
+	margin-top: 10%;
+}
+#le,.mitte{
+	margin-bottom: 10%;
+}
+#space{
+	font-family: pacifico;
+	font-size: 25px;
+
+}
+.kp{
+	border-bottom: solid black;
+	border-top: solid black;
+}
+
+#le{
+	font-family: pacifico;
+	font-size: 25px;
+	color: darkred;
+}
+.preise{
+	font-size: 25px;
+	color: darkred;
+}
+#space,.rind,#cou,.eis,.sar,.chou{
+	margin-bottom: 15%;
+}
+.rind{
+	margin-top: 30%;
+}
+.image{
+margin-bottom: 20px;
+border-radius: 25px;
+}
+.lionel{
+	margin-left: 25%;
+	padding-top: 1%;
+	margin-bottom: 15%;
+}
+.üli{
+	margin-left: 35%;
+}
+
+#leo{
+	border-radius: 100%;
+
+}
+#oben{
+	background-color: #004C8C;
+	margin-bottom:10%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height:70px ;
+}
+
+#pü{
+	background-color: #080830;
+}
+
+#oben .ju .ji .je {
+	text-decoration: none;
+	color: white;
+}
+#oben .ju .ji .je .jo{
+	list-style-type: none;
+	display: inline-block;
+	padding: 1%;
+	font-size: 1rem;
+}
+ #ig{
+	float: right;
+	border-radius: 20px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+#mini{
+	font-family: pacifico;
+	font-size: 50px;
+	color: darkred;
+}
+.vi{
+	font-family: pacifico;
+	color: white;
+}
+.li,.pi{
+	display: inline-block;
+	margin-bottom: 10%;
+}
+
+.mini{
+	margin-top: 7%;
+	margin-left: 7%;
+	margin-bottom: 10%;
+	background-color: white;
+	width: 850px;
+	height:200px
+
+}
+#fig{
+	margin-left: 30%;
+}
+.go{
+	margin-bottom: 60px;
+}
+
+#rosa{
+	margin-left: 30px;
+	margin-bottom: 150px;
+	border-bottom: solid;
+}
+.table{
+	border-collapse: collapse;
+	min-width: 1000px;
+	width: auto;
+	box-shadow: 0.5px 50px rgba(0, 0, 0, 0.15);
+	margin: 30px;
+	border: 2px solid white;
+}
+.e{
+	background-color: black;
+	color: #fff;
+	text-align: left;
+}
+.i,.u{
+	padding: 15px 20px;
+}
+.o,.e,.i,.u{
+	border: 1px solid #ddd;
+}
+
+.rosa{
+	margin-left: 30%;
+	padding: 15px;
+}
+#trone{
+	margin-left: 30px;
+	margin-right: 200px;
+}
+#trone,#equipe{
+	display: inline-block;
+}
+#equipe{
+	position: relative;
+	bottom: 228px;
+}
+#job{
+	border-top: solid;
+	border-bottom: solid;
+	padding: 30px;
+	font-size: 20px;
+}
+#logo{
+	font-family: pacifico;
+	padding-left: 60px;
+	padding-top: 60px;
+	font-size: 30px;
+	height: 40px;
+	padding-bottom: 30%;
+}
+.E-MAIL,.GitHub{
+	display: inline-block;
+	padding-top: 10%;
+}
+#git{
+	padding-left: 25%;
+}
+.E-MAIL{
+	padding-left: 5%;
+
+}
+#mail{
+	margin-left: 20%;
+}
+.GitHub{
+padding-left: 23%;
+}
+.contact{
+	margin-left: 15%;
+	padding: 25px;
+	border-bottom: solid;
+}
+.lin{
+	padding-top: 5%;
+	padding-left: 23%;
+}
+#link{
+	padding-left: 9%;
+}
+#ki{
+	font-family: Cinzel;
+
+}
+.ct{
+	margin-left: 13%;
+	padding-bottom: 25px;
+	font-family: Cinzel;
+	font-size: 60px;
+	color: black;
+}
+#leftcol{
+   
+	position: absolute;
+	right:60px ;
+	top: 300px;
+	padding-right: 5px;
+	color: black;
+}
+
+#lionel{
+	font-family: WindSong,cursive;
+	font-size: 30px;
+}
+#contact{
+	font-family: verdana,aral,sans-serif;
+background-image: url(image/rose.jpeg);
+background-repeat: no-repeat;
+background-size: 1100px 1000px ;
+color: white;
+
+}
+
+#home{
+
+font-family: verdana,aral,sans-serif;
+background-image: url(image/tioki.jpeg);
+background-repeat: no-repeat;
+background-size: 1100px 1000px ;
+color: #5F3013;
+}
+#menu ul a {
+	text-decoration: none;
+}
+#menu ul a:hover li{
+	background-color: black;
+	color: white;
+}
+#menu ul a li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 60%;
+	color: black;
+}
+@media screen and (min-width: 768px){
+#wrapper{
+	display: none;
+}
+
+}
+@media screen and (max-width: 723px){
+	#oben .ju .ji .je .jo{
+		display: none;
+	}
+
+	#omar {
+		margin-left: 0;
+		margin-right: 0;
+
+		
+	}
+	.lil{
+		margin-left: 0;
+		padding-left: 0;
+			padding-right: 0;
+
+	}
+
+}
+@media screen and(max-width: 600px){
+		#oben .ju .ji{
+		-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+    -ms-flex-direction:column;
+        flex-direction:column;
+        margin-left: 0;
+        padding-left: 0;
+	}	
+	.image{
+		max-width: 100%;
+		height: auto;
+	}
+
+
+}
+/*Etablir notre formulaire de contactlllllllllllllllllllllllllllllllllllllllllllllllllllllllllll*/
+#buchen{
+	font-family: Roboto,sans-serif;
+	font-weight: bold;
+	background-color:#080830;/* #fef1df;*/
+	margin: 0;
+	padding: 0;
+	/*mettre les elements du formulaire en plein centre du body.*/
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	/*mettre les elements du formulaire en plein centre*/
+}
+form{
+	background-color:#FFF5EF;/* white;*/
+	padding: 100px;
+	border-radius: 20px;
+}
+form h1{
+	font-size: 23px;
+	border-bottom:solid #747cdf;
+}
+  .opl{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
+.groupe{
+	position: relative;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+}
+.A{
+	margin-top: 5px;
+	padding: 10px 5px 10px 30px;
+	border: 1px solid #c9c9c9;
+	outline-color: #747cdf;
+	border-radius: 5px;
+}
+i{
+	position: absolute;
+	top: 25px;
+	padding: 8px 9px;
+	color: #747cdf;
+
+}
+.colB{
+	margin-left: 40px;
+}
+.colB .groupe{
+	height: 100%;
+}
+.colB .groupe textarea{
+	margin-top: 5px;
+	padding: 10px;
+	background-color: #f8f8f8;
+	border: 2px solid #747cdf;
+	outline: none;
+	border-radius: 5px;
+	resize: none;
+	height: 72%;
+}
+.pied button{
+	margin-top: 10px;
+	background-color:#747cdf ;
+	color: white;
+	font-size: 15px;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	outline: none;
+	cursor: pointer;
+	transition: transform 0.5s;
+}
+.pied button:hover{
+ transform: scale(1.05);
+}
+@media screen and (max-width:910px){
+	.colA{
+		margin-left: 0px;
+	}
+}
+/*llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll*/
+
